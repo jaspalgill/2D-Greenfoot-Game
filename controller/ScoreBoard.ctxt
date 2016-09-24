@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=score\ lives
+comment0.target=ScoreBoard(int,\ int)
+comment1.params=title\ prefix1\ prefix2\ score\ lives
+comment1.target=void\ makeImage(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int)
+comment1.text=\r\n\ Make\ the\ score\ board\ image.\r\n
+comment2.params=
+comment2.target=void\ act()
+numComments=3

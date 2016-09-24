@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ConcreteSubject()
+comment1.params=
+comment1.target=int\ getScore()
+comment2.params=
+comment2.target=int\ getSpeed()
+comment3.params=addScore
+comment3.target=void\ setScore(int)
+comment4.params=addSpeed
+comment4.target=void\ setSpeed(int)
+comment5.params=o
+comment5.target=void\ attach(Observer)
+comment6.params=o
+comment6.target=void\ detach(Observer)
+comment7.params=
+comment7.target=void\ notifyObservers()
+numComments=8

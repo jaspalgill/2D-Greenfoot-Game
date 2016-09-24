@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=c
+comment0.target=void\ addChild(Component)
+comment1.params=c
+comment1.target=void\ removeChild(Component)
+comment2.params=i
+comment2.target=Component\ getChild(int)
+comment3.params=
+comment3.target=java.util.List\ getAllChild()
+comment4.params=
+comment4.target=void\ setFasterFlag()
+comment5.params=
+comment5.target=void\ unsetFasterFlag()
+comment6.params=
+comment6.target=void\ addCoinScore()
+numComments=7

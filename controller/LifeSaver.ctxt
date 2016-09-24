@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=
+comment0.target=LifeSaver()
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Coin\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment10.params=
+comment10.target=void\ unsetFasterFlag()
+comment11.params=
+comment11.target=void\ addCoinScore()
+comment2.params=
+comment2.target=void\ moveDown()
+comment3.params=
+comment3.target=void\ moveFaster()
+comment4.params=
+comment4.target=void\ check()
+comment5.params=
+comment5.target=void\ setFasterFlag()
+comment6.params=c
+comment6.target=void\ addChild(Component)
+comment7.params=c
+comment7.target=void\ removeChild(Component)
+comment8.params=i
+comment8.target=Component\ getChild(int)
+comment9.params=
+comment9.target=java.util.List\ getAllChild()
+numComments=12
